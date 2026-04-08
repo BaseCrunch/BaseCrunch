@@ -1,14 +1,22 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Project%20Nava&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Project%20Nava&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h1 align="center">⚔️ Project Nava</h1>
-<h3 align="center">Anime Streaming Engine powered by torrents</h3>
+<h3 align="center">Next-gen Anime Streaming Engine (Torrent-Powered)</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-WPF-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Engine-V2%20Playback-purple?style=for-the-badge" />
+</p>
+
+---
+
+## 🎬 Preview
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x450?text=Project+Nava+Preview" />
 </p>
 
 ---
@@ -22,27 +30,58 @@
 > playback system ready
 ```
 
-- 🧠 Building **next-gen anime streaming**
-- ⚙️ Focused on **C# / WPF / Torrent systems**
-- 🔥 Designing a **Popcorn-Time-level playback engine (but better)**
+- 🧠 Building next-gen anime streaming
+- ⚙️ C# / WPF / Torrent systems
+- 🔥 Engineering a Popcorn-Time-level playback engine (but better)
+
+---
+
+## 📡 System Status
+
+```bash
+Engine:            ONLINE
+Torrent Backend:   CONNECTED
+Playback Engine:   V2 ACTIVE
+Autoplay System:   ARMED
+Current Phase:     Phase 3 – Stability
+```
+
+---
+
+## ❌ The Problem
+
+Most anime streaming apps:
+- Buffer constantly
+- Break autoplay
+- Reuse broken media state
+- Feel slow and unstable
+
+---
+
+## ✅ The Solution (Project Nava)
+
+- True torrent streaming
+- Clean playback lifecycle
+- No reused state
+- Seamless episode chaining
 
 ---
 
 ## 🎬 Project Nava
 
-> A high-performance anime streaming engine that combines torrents + smart playback
+A high-performance anime streaming engine combining torrents + smart playback
 
 ### ⚡ Core Features
 
 - ⚡ Instant torrent streaming
-- 🔁 Advanced autoplay system (**V2 architecture**)
-- 🧠 Smart buffering & preload pipeline
-- 🎧 Planned: subtitle + audio defaults
-- 🧹 Planned: cache & cleanup system
+- 🔁 Advanced autoplay system (V2)
+- 🧠 Smart buffering pipeline
+- 🎧 Subtitle + audio control (planned)
+- 🧹 Cache & cleanup system (planned)
 
 ---
 
-## 🎥 Playback Pipeline (THIS IS THE SECRET SAUCE)
+## 🎥 Playback Pipeline
 
 ```bash
 [User Click]
@@ -60,10 +99,10 @@
 [Autoplay → Next Episode]
 ```
 
-💡 **Key Philosophy:**
-- ❌ No reused media state  
-- ❌ No “fake ready” playback  
-- ✅ Every episode = fresh system  
+💡 Philosophy:
+- No reused media state  
+- No fake-ready playback  
+- Every episode = fresh system  
 
 ---
 
@@ -82,24 +121,29 @@ EmbeddedVideoPlayer
  └── Clean Media Initialization
 ```
 
-### 🔥 Why this matters:
-- Eliminates playback bugs
-- Fixes autoplay failures
-- Prevents VLC/media desync
-- Enables multi-episode stability
+---
+
+## ⚔️ Nava vs Traditional Players
+
+| Feature | Traditional | Project Nava |
+|--------|------------|-------------|
+| Torrent Streaming | ⚠️ Basic | ✅ Optimized |
+| Autoplay | ❌ Buggy | ✅ Stable V2 |
+| Playback Reset | ❌ Reused | ✅ Full teardown |
+| Episode Switching | ⚠️ Slow | ⚡ Instant |
 
 ---
 
 ## 🗺 Roadmap
 
-✔ Phase 1  – Core playback
-✔ Phase 2  – Autoplay foundation
-🚧 Phase 3 – Stability & validation (CURRENT)
-⬜ Phase 4  – Preload intelligence
-⬜ Phase 5  – Playback recovery
-⬜ Phase 6  – Decode policy
-⬜ Phase 7  – UX polish
-⬜ Phase 8+ – Full system refinement
+✔ Phase 1 – Core playback  
+✔ Phase 2 – Autoplay foundation  
+🚧 Phase 3 – Stability & validation (CURRENT)  
+⬜ Phase 4 – Preload intelligence  
+⬜ Phase 5 – Playback recovery  
+⬜ Phase 6 – Decode policy  
+⬜ Phase 7 – UX polish  
+⬜ Phase 8+ – Full system refinement  
 
 ---
 
@@ -112,14 +156,24 @@ EmbeddedVideoPlayer
 
 ---
 
-## 🎮 Now Playing (Concept)
+## 🎮 Now Playing
 
 ```bash
-Now Playing: Episode 1
-Status: Streaming from torrent
-Buffer: 12%
-Autoplay: Armed → Episode 2
+Now Playing: Episode 3
+Source: Torrent Stream
+Download Speed: 4.2 MB/s
+Buffer Health: Stable
+Autoplay: Ready → Episode 4
 ```
+
+---
+
+## 🧪 Dev Log
+
+- Rebuilt playback lifecycle (V2)
+- Fixed autoplay instability
+- Removed fake-ready playback
+- Implementing strict preload validation
 
 ---
 
@@ -131,9 +185,9 @@ Autoplay: Armed → Episode 2
 
 ## 💬 Contact / Dev Focus
 
-- 💬 Ask me about: torrent streaming, playback systems, autoplay
-- 🔧 Currently solving: real-time streaming stability
-- 🚀 Goal: production-level streaming engine
+- Ask me about: torrent streaming, playback systems, autoplay
+- Currently solving: real-time streaming stability
+- Goal: production-level streaming engine
 
 ---
 
