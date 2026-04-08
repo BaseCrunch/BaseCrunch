@@ -7,11 +7,18 @@
 </p>
 
 <p align="right">
-  <img src="REPLACE_WITH_MILIM_IMAGE.png" width="260"/>
+  <img src="https://raw.githubusercontent.com/BaseCrunch/BaseCrunch/main/assets/milim.png" width="280"/>
 </p>
 
 <h1 align="center">⚔️ Project Nava</h1>
 <p align="center"><b>Anime-styled engineering. Built for real playback correctness — not UI illusions.</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-WPF-68217A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streaming-Torrent%20Powered-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Playback-V2-FF4D8D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Autoplay-Stable-22C55E?style=for-the-badge" />
+</p>
 
 ---
 
