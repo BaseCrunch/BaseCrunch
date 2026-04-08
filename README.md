@@ -6,8 +6,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=700&color=FF4D8D&center=true&width=900&lines=Torrent-powered+anime+streaming;Playback+V2+architecture;Autoplay+without+broken+handoffs;Built+for+real+playback+correctness" />
 </p>
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/BaseCrunch/BaseCrunch/main/assets/milim.png" width="280"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BaseCrunch/BaseCrunch/main/assets/milim.png" width="260"/>
 </p>
 
 <h1 align="center">⚔️ Project Nava</h1>
@@ -25,11 +25,11 @@
 ## 🎬 Real Preview
 
 <p align="center">
-  <img src="REPLACE_WITH_SCREENSHOT.png" width="800"/>
+  <img src="https://via.placeholder.com/800x450?text=Project+Nava+Preview" width="800"/>
 </p>
 
 <p align="center">
-  <img src="REPLACE_WITH_GIF.gif" width="800"/>
+  <img src="https://via.placeholder.com/800x450?text=Autoplay+Demo" width="800"/>
 </p>
 
 ---
@@ -150,6 +150,10 @@ Only clean systems that work.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BaseCrunch&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BaseCrunch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
 </p>
 
 ---
