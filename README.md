@@ -3,11 +3,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&color=FF4D8D&center=true&width=900&lines=Torrent-powered+anime+streaming;Playback+V2+architecture;Autoplay+without+broken+handoffs;Built+for+real+playback+correctness" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=700&color=FF4D8D&center=true&width=900&lines=Torrent-powered+anime+streaming;Playback+V2+architecture;Autoplay+without+broken+handoffs;Built+for+real+playback+correctness" />
+</p>
+
+<p align="right">
+  <img src="REPLACE_WITH_MILIM_IMAGE.png" width="260"/>
 </p>
 
 <h1 align="center">⚔️ Project Nava</h1>
-<p align="center"><b>Built for real playback correctness — not UI illusions.</b></p>
+<p align="center"><b>Anime-styled engineering. Built for real playback correctness — not UI illusions.</b></p>
 
 ---
 
@@ -23,14 +27,11 @@
 
 ---
 
-## 🌸 Identity
+## 🌸 Nava Core
 
-I’m building **Project Nava** — a torrent-powered anime streaming engine focused on:
-
-- clean playback lifecycle  
-- strict validation  
-- zero reused media state  
-- stable autoplay across episodes  
+> Powered by precision playback  
+> Fueled by chaos energy ⚡  
+> Designed for flawless streaming  
 
 ---
 
@@ -61,11 +62,11 @@ HANDOFF: READY
 
 ## ⚡ Core Features
 
-- Instant torrent streaming  
-- Playback V2 architecture  
-- Full teardown per episode  
-- Stable autoplay system  
-- Preload → Validate → Play pipeline  
+- ⚡ Instant torrent streaming  
+- 🔁 Playback V2 architecture  
+- 🧠 Smart preload pipeline  
+- 🔄 Full teardown per episode  
+- 🎧 Subtitle/audio system (planned)  
 
 ---
 
@@ -95,14 +96,13 @@ Autoplay System
 
 ## ⚔️ Why Nava is Different
 
-Most apps simulate playback.
-
+Most apps simulate playback.  
 Nava enforces it.
 
 Every episode:
-- validated
-- reset
-- re-initialized
+- validated  
+- reset  
+- re-initialized  
 
 Because correctness > convenience.
 
@@ -120,7 +120,7 @@ Because correctness > convenience.
 
 ## 🧪 Dev Log
 
-- rebuilt playback system  
+- rebuilt playback engine  
 - fixed autoplay chain  
 - removed fake-ready states  
 - focusing on stability  
